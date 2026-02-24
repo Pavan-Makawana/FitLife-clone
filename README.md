@@ -50,19 +50,18 @@ The goal of this project is to demonstrate front-end development skills by recre
 ---
 
 ## 📸 Preview
-(Add your project screenshot here)
 
 ```
-![FitLife Preview](screenshot.png)
+<img width="1353" height="682" alt="image" src="https://github.com/user-attachments/assets/63b4e3de-8154-45e3-9d07-2e27dd45c29e" />
+
 ```
 
 ---
 
 ## 🔗 Live Demo
-(Add your live website link here)
 
 ```
-https://your-live-link.com
+https://pavan-makawana.github.io/FitLife-clone/
 ```
 
 ---
